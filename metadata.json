@@ -1,0 +1,5 @@
+{
+  "name": "PropCalc - RC Setup Finder",
+  "description": "A comprehensive calculator for RC aircraft motor, propeller, and battery setups, inspired by eCalc.",
+  "requestFramePermissions": []
+}
